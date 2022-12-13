@@ -15,7 +15,6 @@ Tools : Pycharm
 - At the bottom of the dashboard the description regarding the dataset has been displayed. <br /> <br />
 
 ### Visualization Code ###
-Tools: - Jupyter Notbook
-- Anaconda <br />
+Tools: - Jupyter Notbook $ Anaconda <br />
 
 - airbnb-exploratory-data-analysis.ipynb file consists all the visualizations created using matplotlib, seaborn and python. It also consists all the data preporocessing logics.
