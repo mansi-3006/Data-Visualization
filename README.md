@@ -8,13 +8,8 @@
  * This dataset has one file- AB_US_2020.csv which has columns describing features such as host id, hostname, listing id, listing name, latitude and longitude of listing, the neighbourhood, price, room type, minimum number of nights, number of reviews, last review date, reviews per month, availability, host listings and city. <br />
  * This dataset is a compilation of multiple datasets found on Inside Airbnb. <br />
 
+- To run the dashboard use command on your local system: Streamlit run app.py <br /> 
+- The dashboard will appear on the browser. We can select different chart types to see different visualizations. Also, to see raw dataset use the checkbox shown at the bottom of the dashboard says Show the raw data? <br /> 
+- At the bottom of the dashboard the description regarding the dataset has been displayed. <br /> <br />
 
-- To run the dashboard use command on your local system: Streamlit run app.py
-<br /> 
-- The dashboard will appear on the browser. We can select different chart types to see different visualizations. Also, to see raw dataset use the checkbox shown at the bottom of the dashboard says Show the raw data?
-<br /> 
-- At the bottom of the dashboard the description regarding the dataset has been displayed.
-
-<br />
-<br />
 - airbnb-exploratory-data-analysis.ipynb file consists all the visualizations created using matplotlib, seaborn and python. It also consists all the data preporocessing logics.
