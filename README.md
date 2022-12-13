@@ -3,10 +3,10 @@
 ## Dataset ##
 [Dataset](https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data)
 
-### Context ###
+#### Context ####
 Since its inception in 2008, Airbnb has disrupted the traditional hospitality industry as more travellers decide to use Airbnb as their primary means of accommodation. Airbnb offers travellers a more unique and personalized way of accommodation and experience.
 
-### Inspiration ###
+#### Inspiration ####
 1. What regional gap exists in listing prices? What US communities are highly rated by tourists?
 2. Are there any correlations between rental prices and demand?
 3. Can the free-text section of the reviews be used to determine any common patterns? What aspects of renting are people’s favorites, and what aspects do they detest?What aspects of renting are people’s favorites, and what aspects do they detest?
