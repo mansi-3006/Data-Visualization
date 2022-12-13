@@ -2,7 +2,6 @@
 
 ## Streamlit Dashboard ##
 
-  <br /> 
  * This app uses [Streamlit](https://streamlit.io/) and the [U.S Airbnb Dataset](https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data) dataset.<br /> 
  * To see the full code check out the [GitHub repo](https://github.com/mansi-3006/Data-Visualization). <br />  
  * Since its inception in 2008, Airbnb has disrupted the traditional hospitality industry as more travellers decide to use Airbnb as their primary means of accommodation. Airbnb offers travellers a more unique and personalized way of accommodation and experience. <br />    
