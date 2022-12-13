@@ -1,4 +1,7 @@
-# Data-Visualization #
+# Data-Visualization of U.S Airbnb Dataset #
+
+## Dataset ##
+[Dataset](https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data)
 
 ## Streamlit Dashboard ##
 
