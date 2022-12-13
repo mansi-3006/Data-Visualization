@@ -12,7 +12,7 @@ Since its inception in 2008, Airbnb has disrupted the traditional hospitality in
 3. Can the free-text section of the reviews be used to determine any common patterns? What aspects of renting are people’s favorites, and what aspects do they detest?What aspects of renting are people’s favorites, and what aspects do they detest?
 4. What different sorts of housing markets are there in the United States? Do they differ based on the location?
  
-## [Streamlit Dashboard](http://192.168.0.26:8501/)##
+## [Streamlit Dashboard](http://192.168.0.26:8501/) ##
 
  * This app uses [Streamlit](https://streamlit.io/) and the [U.S Airbnb Dataset](https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data) dataset.<br /> 
  * To see the full code check out the [GitHub repo](https://github.com/mansi-3006/Data-Visualization). <br />  
