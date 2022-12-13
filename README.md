@@ -7,7 +7,6 @@
 
 
 <br />
-<br />
 <br /> - To run the dashboard use command on your local system: Streamlit run app.py
 <br /> - The dashboard will appear on the browser. We can select different chart types to see different visualizations. Also, to see raw dataset use the checkbox shown at the bottom of the dashboard says Show the raw data?
 
